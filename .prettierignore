@@ -1,0 +1,16 @@
+public/
+node_modules/*
+package.json
+package-lock.json
+tsconfig.json
+.eslintrc.json
+.prettierrc
+README.md
+CHANGELOG.md
+src/app/globals.css
+src/app/favicon.ico
+src/app/config/config.json
+tailwind.config.ts
+.gitIgnore
+src/app/fonts/*
+.prettierignore
